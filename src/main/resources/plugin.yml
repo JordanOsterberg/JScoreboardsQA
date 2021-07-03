@@ -1,0 +1,7 @@
+name: JScoreboardsQA
+version: ${project.version}
+main: dev.jcsoftware.jscoreboardsqa.JScoreboardsQA
+api-version: 1.17
+commands:
+  jointeam:
+  leaveteam:
